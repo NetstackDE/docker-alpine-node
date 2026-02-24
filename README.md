@@ -1,2 +1,2 @@
 # docker-alpine-node
-latest node alpine image with GIT, BASH and SED Support.
+latest node 22 alpine image with GIT, BASH and SED Support.
